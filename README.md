@@ -1,4 +1,4 @@
-# PRODIGY_ML_02
+# Customer Segmentation
 This repository contains Python code for performing customer segmentation using K-means clustering based on their purchase history. Customer segmentation is crucial for businesses to tailor their marketing strategies and improve customer satisfaction. By clustering customers into groups with similar purchase behaviors, businesses can target each segment more effectively.
 
 Key Features:
